@@ -15,11 +15,3 @@ for(i=0;i<5;i++)
 		getch();
 		return 0;	
 }
-
-output:
-Enter the number1
-2
-3
-4
-5
-12345
